@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+![Leetcode Stats](https://leetcard.jacoblin.cool/ViktoriaViktoria)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViktoriaGavrosh&theme=nord_bright)
+-->
