@@ -1,24 +1,25 @@
 <div id="header" align="center">
     <h1>Hi there, I'm Viktoria</h1>
-    <h3>Android developer from Belarus</h3>
+    <h3>Android developer</h3>
 </div>
 
 <div id="socials" align="center">
-    <a href="https://www.linkedin.com/in/viktoria-gavrosh">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
     <a href="mailto:victoria.gavrosh@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+        <img src="https://img.shields.io/badge/Gmail-87ceeb?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://www.linkedin.com/in/viktoria-gavrosh">
+        <img src="https://img.shields.io/badge/LinkedIn-87ceeb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://t.me/ViktoriaGavrosh">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+        <img src="https://img.shields.io/badge/Telegram-87ceeb?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
 </div>
 
 ### About Me
--  I’m currently learning Android and English
--  I speak Belarusian, Russian, English
--  I like cats
+- I'm from Minsk, Belarus
+- I’m currently learning Android and English
+- I speak Belarusian, Russian, English
+- I like cats )))
 
 ### Languages and tools
 <div>
@@ -31,6 +32,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </div>
+_
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViktoriaGavrosh&theme=nord_bright)
 
