@@ -16,7 +16,7 @@
 </div>
 
 ### About Me
-- 🌱 I’m currently learning Android and English
+-  I’m currently learning Android and English
 -  I speak Belarusian, Russian, English
 -  I like cats
 
