@@ -1,5 +1,17 @@
-## Hi there 👋
-l'm Viktoria.
+<div id="header" align="center">
+    <h1>Hi there, I'm Viktoria</h1>
+    <h3>Android developer from Belarus</h3>
+</div>
+
+- 😄 I'm from Minsk, Belarus
+- 🌱 I’m currently learning Android and English
+- 
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 
 <!--
@@ -16,6 +28,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</div>
 
 <!--
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ViktoriaViktoria)
