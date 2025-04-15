@@ -7,9 +7,11 @@
     <a href="mailto:victoria.gavrosh@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-87ceeb?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
+    <!--
     <a href="https://www.linkedin.com/in/viktoria-gavrosh">
         <img src="https://img.shields.io/badge/LinkedIn-87ceeb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
+    -->
     <a href="https://t.me/ViktoriaGavrosh">
         <img src="https://img.shields.io/badge/Telegram-87ceeb?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
